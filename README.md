@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./nft-preview-card-component.png)
+![./nft-preview-card-component.png](./nft-preview-card-component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TanhyaB/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://tanhyab.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/TanhyaB/nft-preview-card-component](https://github.com/TanhyaB/nft-preview-card-component)
+- Live Site URL: [https://tanhyab.github.io/nft-preview-card-component/](https://tanhyab.github.io/nft-preview-card-component/)
 
 ### Built with
 
@@ -38,7 +38,7 @@ Users should be able to:
 
 ### What I learned
 
-I'm finally getting to grips with the display property and relative value. I used this twice which it made it easier to position and style the icons and avatar section.
+I'm finally getting to grips with the display property and relative value. I used this twice which made it easier to position and style the icons and avatar section.
 
 ```css
 .container .header ul {
@@ -59,14 +59,14 @@ I'm finally getting to grips with the display property and relative value. I use
 
 ### Continued development
 
-Working on projects and taking notes of my work flow, as I'm not sure what that is yet. I'll probably need to do a few more projects to see how I work through the projects.
+Working on projects and taking notes of my workflow, as I'm not sure what that is yet. I'll probably need to do a few more projects to see how I work through the projects.
 
-Having a deeper understanding of the flexbox and grid properties and how to use this with meadia queries, as I still finding that a challenge.
+Having a deeper understanding of the flexbox and grid properties and how to use this with media queries, as I still find that a challenge.
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I'd recommend the css tricks website for all this things css obviously! This helped me heaps with flexbox!
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I'd recommend the CSS tricks website for all things CSS obviously! It helped me heaps with flexbox!
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TanhyaB)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/TanhyaB)](https://www.frontendmentor.io/profile/TanhyaB)
