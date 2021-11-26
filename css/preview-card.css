@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500&display=swap");
+
+/************General Styles***********/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+  color: hsl(215, 51%, 70%);
+}
+
+p {
+  font-weight: 300;
+  font-weight: lighter;
+  margin: 2rem 0 2rem 0;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 1rem;
+}
+
+ul {
+  list-style: none;
+}
+
+span {
+  color: #fff;
+}
+
+.attribution {
+  font-size: 1rem;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/************Active States***********/
+
+.container h2:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+.container p .creator-name:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+/************Container Styles***********/
+.container {
+  margin: auto;
+  padding: 1.5rem;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.container h2 {
+  color: hsl(0, 0%, 100%);
+  margin: 2rem 0 2rem 0;
+}
+
+.container .header ul {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  margin: 2rem 0 1.5rem 0;
+  padding-bottom: 1.5rem;
+  border-bottom: solid;
+  border-width: 0.1rem;
+}
+
+.container .header ul li img {
+  margin-right: 0.4rem;
+}
+
+.container .header ul .icon-text {
+  color: hsl(178, 100%, 50%);
+}
+.container .avatar-footer {
+  display: flex;
+  position: relative;
+}
+
+.container .avatar-image {
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1.5rem;
+  border-style: solid;
+  border-radius: 50%;
+  color: #fff;
+}
+
+/**********Media Query*************/
+
+@media (min-width: 400px) {
+  .container {
+    width: 375px;
+    margin: 4rem auto 1.5rem;
+  }
+}
